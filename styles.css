@@ -1,0 +1,184 @@
+
+img{
+  opacity:1;
+}
+
+img:hover{
+  opacity:0.8;
+}
+
+h1{
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+
+p, h2,h3, h4{
+  font-family: 'Indie Flower', cursive;
+  font-weight: bold;
+}
+
+/* animation */
+.cloud{
+  position:absolute;
+  z-index:2;
+
+}
+/* homepage */
+.nav-container{
+  margin: 1rem 5rem;
+  text-align: center;
+}
+
+.container{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+  /* background-color:grey; */
+}
+
+.container-fluid{
+  margin-bottom: 7rem;
+}
+
+a {
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.col-lg-4:hover{
+  /* background-image:  */
+  color:#464E2E;
+}
+
+
+/* navbar */
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.nav-item {
+  padding: 0 30px;
+  font-size:1.2rem;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.navbar-brand{
+  font-size: 2rem;
+  font-weight: bolder;
+  font-family: fantasy;
+}
+
+/* footer */
+.footer{
+
+  margin:10px;
+}
+
+footer{
+  color:white;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+/* aboutpage */
+#portrait{
+  width:30%;
+  opacity:0.8 !important;
+  margin-top: -3rem;
+  margin-left: 56%;
+  position:absolute;
+  z-index: -1;
+
+}
+
+.about{
+  margin:2rem 35rem 5rem 5rem;
+  background-color: #DAEAF1;
+  opacity:0.8;
+  /* transform: rotate(5deg); */
+  border-style:groove;
+}
+
+.autobiography{
+  text-align: center;
+  padding:3% 5%;
+  opacity:100% !important;
+  line-height: 1.5;
+
+}
+/*
+project page */
+
+.block{
+  padding-bottom: 0rem !important;
+}
+
+.project{
+  padding: 2rem !important;
+  text-align: center;
+
+}
+
+/* gallery */
+.film{
+  width:100%;
+  margin-bottom: 10rem;
+}
+.photo{
+  width:100%;
+}
+
+.one{
+  width:90%;
+}
+
+.two{
+  width:85%;
+    margin-left: 1rem;
+}
+.three{
+  width:100%;
+
+  margin-top: 20rem;
+
+  margin-bottom: 10rem;
+
+}
+
+.four{
+  width:50%;
+  margin-top: 8rem;
+  margin-left: -40rem;
+}
+
+.seven{
+  margin-top:-18rem;
+
+}
+
+.five{
+  width:110%;
+}
+
+.six{
+  width:70%;
+  margin-top:12rem;
+  margin-left:2rem;
+  margin-bottom: 10rem;
+}
+
+.eight{
+  width:80%;
+
+}
+
+.nine{
+  width:40%;
+  margin-bottom: 10rem;
+  margin-top:5rem;
+  margin-left:30rem;
+}
