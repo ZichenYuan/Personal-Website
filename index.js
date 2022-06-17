@@ -20,4 +20,3 @@ function cloud(element){
 
 cloud(".cloud");
 cloud("h1");
-cloud(".portrait")
